@@ -1,7 +1,7 @@
 #Descripción del proyecto.
 el proyecto es para  una compañia para mejorar su gestion de informacion
 ## Tecnologías utilizadas.
-sql,
+utilizamos posgret para la basee de datos, adeemas de esto utilizamos  softwares para los  diagramas como drawsql y draw.io
 ## Motor de base de datos utilizado.
 pgadmin
 ## Explicación del proceso de normalización.
