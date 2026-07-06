@@ -1,4 +1,4 @@
-#Project Description.
+# Project Description.
 The project is for a company to improve its information management.
 ## Technologies Used.
 We used PostgreSQL for the database, and we also used software for diagrams such as DrawSQL and Draw.io.
